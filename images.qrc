@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>figureImages/BlackElephant.svg</file>
+        <file>figureImages/BlackHorse.svg</file>
+        <file>figureImages/BlackKing.svg</file>
+        <file>figureImages/BlackPawn.svg</file>
+        <file>figureImages/BlackQueuen.svg</file>
+        <file>figureImages/BlackRook.svg</file>
+        <file>figureImages/WhiteElephant.svg</file>
+        <file>figureImages/WhiteHorse.svg</file>
+        <file>figureImages/WhiteKing.svg</file>
+        <file>figureImages/WhitePawn.svg</file>
+        <file>figureImages/WhiteQueuen.svg</file>
+        <file>figureImages/WhiteRook.svg</file>
+    </qresource>
+</RCC>
